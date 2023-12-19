@@ -1,5 +1,7 @@
 ![image](images/AWS-Marketplace-logo.png)
 
+
+
 # AWS Marketplace API Reference Code Library
 
 The AWS Marketplace Catalog APIs and Agreements APIs provide API interfaces to manage AWS Marketplace for a seller's
